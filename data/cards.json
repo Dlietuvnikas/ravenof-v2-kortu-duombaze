@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Svantonas Lazaras",
+    "cost": 800,
+    "attack": 5,
+    "hp": 6,
+    "rarity": "Legendinis",
+    "type": "Veikėjas",
+    "faction": "Plėšikų naktis",
+    "effect": "Pasyvus - priešininko ėjimo pradžioje iš jo pavagia 200 monetų. Suteikia sau +1/+1.",
+    "image": "assets/cards/1_svantonas_lazaras.png",
+    "id": 1
+  },
+  {
+    "name": "Prakeiktasis Džimis",
+    "cost": 500,
+    "attack": 5,
+    "hp": 4,
+    "rarity": "Legendinis",
+    "type": "Veikėjas",
+    "faction": "Plėšikų naktis",
+    "effect": "Pasyvus - sunaikinti draugiški piratų tipo veikėjai keliauja ne į kapinyną o į kaladės apačią.",
+    "image": "assets/cards/2_prakeiktasis_d_imis.png",
+    "id": 2
+  },
+  {
+    "name": "Liucijus Marikas",
+    "cost": 800,
+    "attack": 4,
+    "hp": 14,
+    "rarity": "Legendinis",
+    "type": "Veikėjas",
+    "faction": "Plėšikų naktis",
+    "effect": "Pasyvus - padaro užnuodytas visiems veikėjams kurie jį atakuoja.",
+    "image": "assets/cards/3_liucijus_marikas.png",
+    "id": 3
+  },
+  {
+    "name": "Morganas Greivsas",
+    "cost": 700,
+    "attack": 6,
+    "hp": 8,
+    "rarity": "Legendinis",
+    "type": "Veikėjas",
+    "faction": "Plėšikų naktis",
+    "effect": "Sprintas. Kovos šūksnis - sunaikina pasirinktą veikėją, iki ėjimo pabaigos suteikia jo atakos taškus sau.",
+    "image": "assets/cards/4_morganas_greivsas.png",
+    "id": 4
+  },
+  {
+    "name": "Grizmas Šmėklinis",
+    "cost": 600,
+    "attack": 4,
+    "hp": 4,
+    "rarity": "Epiškas",
+    "type": "Veikėjas",
+    "faction": "Plėšikų naktis",
+    "effect": "Kovos šūksnis - padaro 0/-2 pasirinktam veikėjui arba artefaktui, jei jis sunaikinamas šiam ėjimui gaunate +100 monetų.",
+    "image": "assets/cards/5_grizmas_m_klinis.png",
+    "id": 5
+  }
+]
